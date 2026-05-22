@@ -1,0 +1,33 @@
+# Core
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
+httpx
+
+# ML / Inference
+onnxruntime
+opencv-python-headless
+Pillow
+numpy
+
+# AI / LLM
+openai
+anthropic
+
+# Data
+pyyaml
+aiosqlite
+sqlalchemy
+
+# Frontend
+streamlit
+requests
+
+# Validation
+jsonschema
+
+# Utils
+python-dotenv
+pydantic
+pydantic-settings
